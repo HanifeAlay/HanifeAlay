@@ -29,7 +29,7 @@ Currently, I'm learning React.js and working on my personal portfolio website �
 ---
 
 ### 📫 Bana ulaş / Contact Me:
-📧 [hanifealay@iclou.com](mailto:hanifealay@icloud.com)  
+📧 [hanifealay@icloud.com](mailto:hanifealay@icloud.com)  
 🌐 [LinkedIn Profilim](https://www.linkedin.com/in/hanife-alay) 
 
 ---
