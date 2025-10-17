@@ -1,7 +1,5 @@
 # HanifeAlay-HanifeAlay
 
-## Frontend Developer | HTML, CSS, JavaScript &amp; React öğreniyorum 🚀
-
 ## Merhaba! Ben HANİFE 🙋🏻‍♀️
 Ben Hanife, Frontend Developer olma yolunda ilerleyen bir yazılım geliştiricisiyim.  
 HTML, CSS, Bootstrap ve JavaScript konularında projeler geliştiriyorum.  
